@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef13495f-a54a-4517-9df6-eb89a37140a1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/saucedemo-playwright-pytest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/login_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_login.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="7" />
+    <option name="cachedIndexableFilesCount" value="9" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,67 +32,67 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000068085748" />
-      <entry key="MS500" value="1.0232600821119773" />
-      <entry key="S2" value="1.3905288291084095" />
-      <entry key="S5" value="1.6888529745933658" />
-      <entry key="S10" value="1.8770150274061908" />
-      <entry key="S30" value="2.5202028033274555" />
-      <entry key="S60" value="4.069218201230571" />
-      <entry key="M2" value="8.24560800375689" />
-      <entry key="M5" value="20.817344427270672" />
-      <entry key="M10" value="40.36340851869242" />
-      <entry key="M15" value="58.53407361966093" />
-      <entry key="M30" value="97.90454142834788" />
-      <entry key="H1" value="136.3668903065153" />
-      <entry key="H2" value="165.53010866005567" />
-      <entry key="H4" value="184.26243363494626" />
-      <entry key="D1" value="202.87593901793397" />
-      <entry key="W1" value="206.40176355463413" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000001465954" />
+      <entry key="S5" value="1.0004191111297545" />
+      <entry key="S10" value="1.0611443404137832" />
+      <entry key="S30" value="2.789190238221505" />
+      <entry key="S60" value="5.607921790399165" />
+      <entry key="M2" value="10.13423729144529" />
+      <entry key="M5" value="22.224515379839815" />
+      <entry key="M10" value="38.32449562564871" />
+      <entry key="M15" value="51.62385902255634" />
+      <entry key="M30" value="87.98370017448796" />
+      <entry key="H1" value="151.04591488381382" />
+      <entry key="H2" value="228.4625450468233" />
+      <entry key="H4" value="294.50511402886224" />
+      <entry key="D1" value="373.619942120703" />
+      <entry key="W1" value="390.1469305478869" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="2.565222143614977E-124" />
-      <entry key="MS500" value="1.9134847089559425E-25" />
-      <entry key="S2" value="6.61387905660361E-7" />
-      <entry key="S5" value="0.0033743052720289746" />
-      <entry key="S10" value="0.05820921091468793" />
-      <entry key="S30" value="0.4377717121361074" />
-      <entry key="S60" value="0.8962709760878222" />
-      <entry key="M2" value="1.6901858739547293" />
-      <entry key="M5" value="3.433790340165816" />
-      <entry key="M10" value="4.822200118780654" />
-      <entry key="M15" value="5.558180891844042" />
-      <entry key="M30" value="6.701914192011687" />
-      <entry key="H1" value="7.616937798698083" />
-      <entry key="H2" value="8.231869101064234" />
-      <entry key="H4" value="8.593867469369114" />
-      <entry key="D1" value="8.928960361421243" />
-      <entry key="W1" value="8.989765396831062" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="9.057852298296518E-95" />
+      <entry key="S2" value="3.0850080999479393E-24" />
+      <entry key="S5" value="3.9418720516102996E-10" />
+      <entry key="S10" value="1.9854414757784893E-5" />
+      <entry key="S30" value="0.028184196931115978" />
+      <entry key="S60" value="0.22453472440507663" />
+      <entry key="M2" value="0.9290985332188568" />
+      <entry key="M5" value="2.878306289294713" />
+      <entry key="M10" value="4.541376176032318" />
+      <entry key="M15" value="5.428401286310115" />
+      <entry key="M30" value="7.146253396058919" />
+      <entry key="H1" value="9.800959419412015" />
+      <entry key="H2" value="12.90021010518704" />
+      <entry key="H4" value="15.42119504762059" />
+      <entry key="D1" value="18.31140843023003" />
+      <entry key="W1" value="18.899079028511938" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="7.6600449283128E-9" />
-      <entry key="MS500" value="0.023814999417752707" />
-      <entry key="S2" value="0.41488780761272254" />
-      <entry key="S5" value="0.909538361559361" />
-      <entry key="S10" value="1.384500948850346" />
-      <entry key="S30" value="2.6802486655391076" />
-      <entry key="S60" value="4.77949160593803" />
-      <entry key="M2" value="9.80180898624865" />
-      <entry key="M5" value="24.16529279988783" />
-      <entry key="M10" value="45.13025024160458" />
-      <entry key="M15" value="64.05053965955832" />
-      <entry key="M30" value="104.58126418766513" />
-      <entry key="H1" value="143.96925241337692" />
-      <entry key="H2" value="173.753977739826" />
-      <entry key="H4" value="192.85208429975233" />
-      <entry key="D1" value="211.80416243268903" />
-      <entry key="W1" value="215.39142277853915" />
+      <entry key="MS100" value="9.175856609438145E-30" />
+      <entry key="MS500" value="1.5578632185173467E-6" />
+      <entry key="S2" value="0.03532908036884098" />
+      <entry key="S5" value="0.2629933852448271" />
+      <entry key="S10" value="0.5735397854750248" />
+      <entry key="S30" value="2.6130013189182613" />
+      <entry key="S60" value="5.707812983058791" />
+      <entry key="M2" value="10.96660080749602" />
+      <entry key="M5" value="25.018502249331686" />
+      <entry key="M10" value="42.798708942198765" />
+      <entry key="M15" value="56.99702577868338" />
+      <entry key="M30" value="95.09116303296425" />
+      <entry key="H1" value="160.81941153842632" />
+      <entry key="H2" value="241.34467287331842" />
+      <entry key="H4" value="309.9155662580939" />
+      <entry key="D1" value="391.9292419241419" />
+      <entry key="W1" value="409.04569919539193" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3IDdyydphikOlr0XXXRwpRrzuAL" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -107,29 +101,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python tests.Python tests for tests.test_login.test_valid_login.executor": "Run",
-    "Python tests.Python tests in test_login.py.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
-    "junie.onboarding.icon.badge.shown": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for tests.test_login.test_valid_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_login.py.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python tests.Python tests in test_login.py">
+}</component>
+  <component name="RunManager" selected="Python tests.Python tests for tests.test_login.test_valid_login">
     <configuration name="Python tests for tests.test_login.test_valid_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="saucedemo-playwright-pytest" />
       <option name="ENV_FILES" value="" />
@@ -166,8 +161,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests in test_login.py" />
         <item itemvalue="Python tests.Python tests for tests.test_login.test_valid_login" />
+        <item itemvalue="Python tests.Python tests in test_login.py" />
       </list>
     </recent_temporary>
   </component>
