@@ -1,5 +1,7 @@
 from pytest_playwright.pytest_playwright import page
 
+from pages.products_page import ProductsPage
+
 
 class LoginPage:
 
@@ -18,3 +20,4 @@ class LoginPage:
         self.username.fill(username)
         self.password.fill(password)
         self.login_button.click()
+        return ProductsPage(self.page)
