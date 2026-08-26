@@ -1,36 +1,28 @@
 pipeline {
-    agent { label 'linux' }
+    agent any
 
     options {
         timestamps()
-        skipDefaultCheckout()
     }
 
     stages {
-        stage('Checkout') {
-            steps {
-                checkout scm
-            }
-        }
-
         stage('Set up test environment') {
             steps {
-                sh '''
-                    python3 -m venv .venv
-                    .venv/bin/python -m pip install --upgrade pip
-                    .venv/bin/python -m pip install -r requirements.txt
-                    .venv/bin/python -m playwright install --with-deps chromium
+                bat '''
+                    py -m venv .venv
+                    .venv\Scripts\python.exe -m pip install --upgrade pip
+                    .venv\Scripts\python.exe -m pip install -r requirements.txt
+                    .venv\Scripts\python.exe -m playwright install chromium
                 '''
             }
         }
 
         stage('Run tests') {
             steps {
-                sh '''
-                    mkdir -p reports test-results
-                    .venv/bin/python -m pytest \
-                      --junitxml=reports/junit.xml \
-                      --output=test-results
+                bat '''
+                    if not exist reports mkdir reports
+                    if not exist test-results mkdir test-results
+                    .venv\Scripts\python.exe -m pytest --junitxml=reports\junit.xml --output=test-results
                 '''
             }
         }
@@ -39,7 +31,6 @@ pipeline {
     post {
         always {
             junit allowEmptyResults: true, testResults: 'reports/junit.xml'
-            archiveArtifacts allowEmptyArchive: true, artifacts: 'test-results/**/*'
         }
     }
 }
