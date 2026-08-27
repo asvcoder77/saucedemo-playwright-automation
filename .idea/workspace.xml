@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef13495f-a54a-4517-9df6-eb89a37140a1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/test_standalone.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/login_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_e2e.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_e2e.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,61 +32,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="2.106435675316376" />
-      <entry key="MS500" value="3.613843801201652" />
-      <entry key="S2" value="4.558953355823814" />
-      <entry key="S5" value="5.198444380596593" />
-      <entry key="S10" value="6.538861217966558" />
-      <entry key="S30" value="9.999081593695758" />
-      <entry key="S60" value="11.980076816191467" />
-      <entry key="M2" value="13.32577033199029" />
-      <entry key="M5" value="14.285383725029934" />
-      <entry key="M10" value="14.710246347282819" />
-      <entry key="M15" value="15.57944749208159" />
-      <entry key="M30" value="25.478087349909753" />
-      <entry key="H1" value="62.59389373271354" />
-      <entry key="H2" value="146.2351264852311" />
-      <entry key="H4" value="297.46820502982683" />
-      <entry key="D1" value="711.4335729376569" />
-      <entry key="W1" value="850.586592005744" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000958929505" />
+      <entry key="S2" value="1.0175973259220412" />
+      <entry key="S5" value="1.1988473080407966" />
+      <entry key="S10" value="1.4593401688171523" />
+      <entry key="S30" value="2.299206225271634" />
+      <entry key="S60" value="3.8585533463108455" />
+      <entry key="M2" value="6.389521601416175" />
+      <entry key="M5" value="11.626659589416619" />
+      <entry key="M10" value="18.607164907502042" />
+      <entry key="M15" value="24.11180052468914" />
+      <entry key="M30" value="36.05625296383348" />
+      <entry key="H1" value="57.94102400231063" />
+      <entry key="H2" value="116.75994720994197" />
+      <entry key="H4" value="253.36418842727375" />
+      <entry key="D1" value="736.4957329790687" />
+      <entry key="W1" value="923.4115925802724" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="0.0" />
-      <entry key="S30" value="1.2045150264990644E-251" />
-      <entry key="S60" value="3.8247542381446074E-126" />
-      <entry key="M2" value="3.9592226484526695E-63" />
-      <entry key="M5" value="5.224417120169416E-25" />
-      <entry key="M10" value="3.277309402724772E-12" />
-      <entry key="M15" value="6.587020937029825E-8" />
-      <entry key="M30" value="0.0015380123228095764" />
-      <entry key="H1" value="0.2701417162018809" />
-      <entry key="H2" value="3.904175082331886" />
-      <entry key="H4" value="15.475783960206012" />
-      <entry key="D1" value="50.337927604263676" />
-      <entry key="W1" value="61.83596945010023" />
+      <entry key="MS100" value="2.782292847452855E-24" />
+      <entry key="MS500" value="1.9453578868828927E-5" />
+      <entry key="S2" value="0.07495120918210406" />
+      <entry key="S5" value="0.48718372083303124" />
+      <entry key="S10" value="0.9868857013073221" />
+      <entry key="S30" value="1.8527694274187638" />
+      <entry key="S60" value="2.430674527359506" />
+      <entry key="M2" value="3.038903062299647" />
+      <entry key="M5" value="4.1007230562515" />
+      <entry key="M10" value="5.216249090401029" />
+      <entry key="M15" value="5.864349312843514" />
+      <entry key="M30" value="6.756074954726795" />
+      <entry key="H1" value="7.36364185757156" />
+      <entry key="H2" value="9.116268299460973" />
+      <entry key="H4" value="17.30986836386067" />
+      <entry key="D1" value="54.366919875207735" />
+      <entry key="W1" value="69.11569452706557" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.9789596243418837" />
-      <entry key="MS500" value="3.569787756874507" />
-      <entry key="S2" value="4.54483622852937" />
-      <entry key="S5" value="5.192077210926453" />
-      <entry key="S10" value="6.53501816122524" />
-      <entry key="S30" value="9.997293026020127" />
-      <entry key="S60" value="11.979048364622788" />
-      <entry key="M2" value="13.325211905624393" />
-      <entry key="M5" value="14.285147951065426" />
-      <entry key="M10" value="14.710124409900464" />
-      <entry key="M15" value="15.579353094392953" />
-      <entry key="M30" value="25.479470635995835" />
-      <entry key="H1" value="62.863300574012314" />
-      <entry key="H2" value="150.13572661824549" />
-      <entry key="H4" value="312.93704704039067" />
-      <entry key="D1" value="761.7676415746913" />
-      <entry key="W1" value="912.4218796967856" />
+      <entry key="MS100" value="3.2639835873397517E-19" />
+      <entry key="MS500" value="2.012482730474115E-4" />
+      <entry key="S2" value="0.1636039649643058" />
+      <entry key="S5" value="0.9567333189615933" />
+      <entry key="S10" value="1.9303756543777069" />
+      <entry key="S30" value="3.8951983562498813" />
+      <entry key="S60" value="6.116106334564841" />
+      <entry key="M2" value="9.308179364747065" />
+      <entry key="M5" value="15.651266583273449" />
+      <entry key="M10" value="23.769746486226325" />
+      <entry key="M15" value="29.933743857528405" />
+      <entry key="M30" value="42.78554689072194" />
+      <entry key="H1" value="65.28853853608143" />
+      <entry key="H2" value="125.86578226783433" />
+      <entry key="H4" value="270.6648912468701" />
+      <entry key="D1" value="790.8582157215849" />
+      <entry key="W1" value="992.526485789021" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -104,32 +101,87 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python tests.Python tests for tests.test_e2e.test_e2e.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for tests.test_e2e.test_end2end.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for tests.test_login.test_valid_login.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_login.py.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for test_standalone.test_login.executor": "Run",
+    "Python tests.Python tests for test_standalone.test_login_bypassed.executor": "Run",
+    "Python tests.Python tests for tests.test_e2e.test_e2e.executor": "Run",
+    "Python tests.Python tests for tests.test_e2e.test_end2end.executor": "Run",
+    "Python tests.Python tests for tests.test_e2e2.test_end2end.executor": "Run",
+    "Python tests.Python tests for tests.test_login.test_valid_login.executor": "Run",
+    "Python tests.Python tests in test_login.py.executor": "Run",
+    "Python tests.Python tests in test_standalone.py.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
-  <component name="RunManager" selected="Python tests.Python tests for tests.test_e2e.test_end2end">
+}]]></component>
+  <component name="RunManager" selected="Python tests.Python tests for test_standalone.test_login_bypassed">
+    <configuration name="Python tests for test_standalone.test_login" type="tests" factoryName="Autodetect" nameIsGenerated="true">
+      <module name="saucedemo-playwright-pytest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;test_standalone.test_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_standalone.test_login_bypassed" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="saucedemo-playwright-pytest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;test_standalone.test_login_bypassed&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for tests.test_e2e2.test_end2end" type="tests" factoryName="Autodetect" nameIsGenerated="true">
+      <module name="saucedemo-playwright-pytest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;tests.test_e2e2.test_end2end&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests for tests.test_e2e.test_e2e" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="saucedemo-playwright-pytest" />
       <option name="ENV_FILES" value="" />
@@ -198,8 +250,27 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests in test_standalone.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="saucedemo-playwright-pytest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_standalone.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_standalone.test_login_bypassed" />
+        <item itemvalue="Python tests.Python tests in test_standalone.py" />
         <item itemvalue="Python tests.Python tests for tests.test_e2e.test_e2e" />
         <item itemvalue="Python tests.Python tests for tests.test_e2e.test_valid_login" />
         <item itemvalue="Python tests.Python tests in test_e2e.py" />
