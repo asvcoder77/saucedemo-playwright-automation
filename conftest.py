@@ -1,11 +1,15 @@
+import os
+
 import pytest
 
 
 @pytest.fixture
+
+
 def credentials():
     return {
-        "username": "standard_user",
-        "password": "secret_sauce",
+        "username": os.getenv("TEST_USERNAME", "standard_user"),
+        "password": os.getenv("TEST_PASSWORD", "secret_sauce"),
     }
 
 

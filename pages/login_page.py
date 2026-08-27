@@ -1,3 +1,5 @@
+import os
+
 from pytest_playwright.pytest_playwright import page
 
 from pages.products_page import ProductsPage
@@ -5,7 +7,7 @@ from pages.products_page import ProductsPage
 
 class LoginPage:
 
-    URL = "https://www.saucedemo.com/"
+    URL = os.getenv("BASE_URL", "https://www.saucedemo.com/")
 
     def __init__(self,page):
         self.page=page
