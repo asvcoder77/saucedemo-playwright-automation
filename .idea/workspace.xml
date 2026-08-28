@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef13495f-a54a-4517-9df6-eb89a37140a1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/test_standalone.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_standalone.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_standalone.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="19" />
+    <option name="cachedIndexableFilesCount" value="20" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -32,61 +32,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000000958929505" />
-      <entry key="S2" value="1.0175973259220412" />
-      <entry key="S5" value="1.1988473080407966" />
-      <entry key="S10" value="1.4593401688171523" />
-      <entry key="S30" value="2.299206225271634" />
-      <entry key="S60" value="3.8585533463108455" />
-      <entry key="M2" value="6.389521601416175" />
-      <entry key="M5" value="11.626659589416619" />
-      <entry key="M10" value="18.607164907502042" />
-      <entry key="M15" value="24.11180052468914" />
-      <entry key="M30" value="36.05625296383348" />
-      <entry key="H1" value="57.94102400231063" />
-      <entry key="H2" value="116.75994720994197" />
-      <entry key="H4" value="253.36418842727375" />
-      <entry key="D1" value="736.4957329790687" />
-      <entry key="W1" value="923.4115925802724" />
+      <entry key="MS100" value="3.4495418043848214E-50" />
+      <entry key="MS500" value="1.287026409703668E-10" />
+      <entry key="S2" value="0.00429362310526222" />
+      <entry key="S5" value="0.20178726121866178" />
+      <entry key="S10" value="1.0569555936135844" />
+      <entry key="S30" value="4.9079709517535886" />
+      <entry key="S60" value="8.697433771840755" />
+      <entry key="M2" value="12.442933911299415" />
+      <entry key="M5" value="15.906785942743436" />
+      <entry key="M10" value="17.508075313216075" />
+      <entry key="M15" value="18.5104686952613" />
+      <entry key="M30" value="21.05780334719899" />
+      <entry key="H1" value="24.552613766208115" />
+      <entry key="H2" value="37.90840797055282" />
+      <entry key="H4" value="108.00214826588878" />
+      <entry key="D1" value="673.3086731735773" />
+      <entry key="W1" value="1000.6261746387133" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="2.782292847452855E-24" />
-      <entry key="MS500" value="1.9453578868828927E-5" />
-      <entry key="S2" value="0.07495120918210406" />
-      <entry key="S5" value="0.48718372083303124" />
-      <entry key="S10" value="0.9868857013073221" />
-      <entry key="S30" value="1.8527694274187638" />
-      <entry key="S60" value="2.430674527359506" />
-      <entry key="M2" value="3.038903062299647" />
-      <entry key="M5" value="4.1007230562515" />
-      <entry key="M10" value="5.216249090401029" />
-      <entry key="M15" value="5.864349312843514" />
-      <entry key="M30" value="6.756074954726795" />
-      <entry key="H1" value="7.36364185757156" />
-      <entry key="H2" value="9.116268299460973" />
-      <entry key="H4" value="17.30986836386067" />
-      <entry key="D1" value="54.366919875207735" />
-      <entry key="W1" value="69.11569452706557" />
+      <entry key="MS100" value="1.000000017967937" />
+      <entry key="MS500" value="1.0282422727109715" />
+      <entry key="S2" value="1.409944355088704" />
+      <entry key="S5" value="1.6999902943373661" />
+      <entry key="S10" value="1.8388501196643432" />
+      <entry key="S30" value="2.179896427922303" />
+      <entry key="S60" value="2.8005564802279084" />
+      <entry key="M2" value="3.55642597590403" />
+      <entry key="M5" value="4.307902882521498" />
+      <entry key="M10" value="4.6312716121364605" />
+      <entry key="M15" value="4.748836334487585" />
+      <entry key="M30" value="4.871860036429235" />
+      <entry key="H1" value="4.990318675053771" />
+      <entry key="H2" value="5.985687677523079" />
+      <entry key="H4" value="11.104780630972838" />
+      <entry key="D1" value="54.14099644013474" />
+      <entry key="W1" value="79.53204845197384" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="3.2639835873397517E-19" />
-      <entry key="MS500" value="2.012482730474115E-4" />
-      <entry key="S2" value="0.1636039649643058" />
-      <entry key="S5" value="0.9567333189615933" />
-      <entry key="S10" value="1.9303756543777069" />
-      <entry key="S30" value="3.8951983562498813" />
-      <entry key="S60" value="6.116106334564841" />
-      <entry key="M2" value="9.308179364747065" />
-      <entry key="M5" value="15.651266583273449" />
-      <entry key="M10" value="23.769746486226325" />
-      <entry key="M15" value="29.933743857528405" />
-      <entry key="M30" value="42.78554689072194" />
-      <entry key="H1" value="65.28853853608143" />
-      <entry key="H2" value="125.86578226783433" />
-      <entry key="H4" value="270.6648912468701" />
-      <entry key="D1" value="790.8582157215849" />
-      <entry key="W1" value="992.526485789021" />
+      <entry key="MS100" value="5.774277812104554E-5" />
+      <entry key="MS500" value="0.1464969858108534" />
+      <entry key="S2" value="0.8748946192693794" />
+      <entry key="S5" value="1.559586273393265" />
+      <entry key="S10" value="2.5948381813910646" />
+      <entry key="S30" value="6.7800846613873755" />
+      <entry key="S60" value="11.21921856384995" />
+      <entry key="M2" value="15.793373822652043" />
+      <entry key="M5" value="20.106985124723025" />
+      <entry key="M10" value="22.079920474992985" />
+      <entry key="M15" value="23.217933141389697" />
+      <entry key="M30" value="25.9073416602504" />
+      <entry key="H1" value="29.53085722068179" />
+      <entry key="H2" value="43.88694198181664" />
+      <entry key="H4" value="119.10099344560221" />
+      <entry key="D1" value="727.4453531924202" />
+      <entry key="W1" value="1080.1573222377606" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -106,6 +106,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python tests.Python tests for test_standalone.test_login.executor": "Run",
     "Python tests.Python tests for test_standalone.test_login_bypassed.executor": "Run",
+    "Python tests.Python tests for test_standalone.test_screenshot.executor": "Run",
     "Python tests.Python tests for tests.test_e2e.test_e2e.executor": "Run",
     "Python tests.Python tests for tests.test_e2e.test_end2end.executor": "Run",
     "Python tests.Python tests for tests.test_e2e2.test_end2end.executor": "Run",
@@ -130,7 +131,7 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.Python tests for test_standalone.test_login_bypassed">
+  <component name="RunManager" selected="Python tests.Python tests in test_standalone.py">
     <configuration name="Python tests for test_standalone.test_login" type="tests" factoryName="Autodetect" nameIsGenerated="true">
       <module name="saucedemo-playwright-pytest" />
       <option name="ENV_FILES" value="" />
@@ -162,6 +163,23 @@
       <option name="RUN_TOOL" value="" />
       <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
       <option name="_new_target" value="&quot;test_standalone.test_login_bypassed&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_standalone.test_screenshot" type="tests" factoryName="Autodetect" nameIsGenerated="true">
+      <module name="saucedemo-playwright-pytest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;test_standalone.test_screenshot&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -269,8 +287,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_standalone.test_login_bypassed" />
         <item itemvalue="Python tests.Python tests in test_standalone.py" />
+        <item itemvalue="Python tests.Python tests for test_standalone.test_login_bypassed" />
         <item itemvalue="Python tests.Python tests for tests.test_e2e.test_e2e" />
         <item itemvalue="Python tests.Python tests for tests.test_e2e.test_valid_login" />
         <item itemvalue="Python tests.Python tests in test_e2e.py" />

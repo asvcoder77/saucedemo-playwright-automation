@@ -1,6 +1,12 @@
 import json
 
 from playwright.sync_api import Page
+from playwright.sync_api import sync_playwright
+with sync_playwright() as p:
+    browser = p.chromium.launch(headless=False)
+    page = browser.new_page()
+    page.goto("https://rahulshettyacademy.com/")
+    browser.close()
 
 
 def test_login(page):
@@ -13,7 +19,7 @@ def test_login(page):
     ).click()
 
 
-def test_login_bypassed(page: Page):
+def login_bypassed(page: Page):
     login_response = page.request.post("https://rahulshettyacademy.com/api/ecom/auth/login", data={
         "userEmail": "asvishnukaruvannur7@gmail.com",
         "userPassword": "Vi@12345"}, )
@@ -22,3 +28,10 @@ def test_login_bypassed(page: Page):
     page.add_init_script(f"localStorage.setItem('token', {json.dumps(token)})")
     page.goto("https://rahulshettyacademy.com/client/#/dashboard/dash")
     assert page.url.endswith("/dashboard/dash")
+
+def test_screenshot(page: Page):
+    login_bypassed(page)
+    page.locator('img.card-img-top').nth(2).screenshot(path='ss.png')
+    page.screenshot(path='ss2.png',full_page=True)
+    page.screenshot(path='ss3.png')
+
