@@ -1,4 +1,5 @@
 import json
+import time
 
 from playwright.sync_api import Page
 from playwright.sync_api import sync_playwright
@@ -6,6 +7,14 @@ with sync_playwright() as p:
     browser = p.chromium.launch(headless=False)
     page = browser.new_page()
     page.goto("https://rahulshettyacademy.com/")
+    title = page.evaluate("document.title")
+    print(title)
+    title_new = page.title()
+    signup_button = page.locator("(//a[contains(text(),'Sign Up')])[2]")
+    signup_button.click(button="right")
+    signup_button.press("Control+C")
+
+    time.sleep(1)
     browser.close()
 
 
@@ -17,6 +26,7 @@ def test_login(page):
     page.locator(
         "//b[contains(text(),'ADIDAS ORIGINAL')]/parent::h5/following-sibling::button[contains(text(),'Add To Cart')]"
     ).click()
+
 
 
 def login_bypassed(page: Page):
