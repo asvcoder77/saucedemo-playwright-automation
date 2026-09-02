@@ -41,7 +41,7 @@ def login_bypassed(page: Page):
 
 def test_screenshot(page: Page):
     login_bypassed(page)
-    page.locator('img.card-img-top').nth(2).screenshot(path='ss.png')
-    page.screenshot(path='ss2.png',full_page=True)
-    page.screenshot(path='ss3.png')
+    page.locator('img.card-img-top').nth(2).screenshot(path='../ss.png')
+    page.screenshot(path='../ss2.png', full_page=True)
+    page.screenshot(path='../ss3.png')
 
