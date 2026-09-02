@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef13495f-a54a-4517-9df6-eb89a37140a1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/test_handlingtabs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss2.png" beforeDir="false" afterPath="$PROJECT_DIR$/ss2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss3.png" beforeDir="false" afterPath="$PROJECT_DIR$/ss3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_standalone.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_standalone.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="23" />
+    <option name="cachedIndexableFilesCount" value="25" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -34,61 +32,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000000000069" />
-      <entry key="MS500" value="1.0014720067476157" />
-      <entry key="S2" value="1.1958742967373353" />
-      <entry key="S5" value="1.5209439276614982" />
-      <entry key="S10" value="1.721764454418128" />
-      <entry key="S30" value="1.8970125189142146" />
-      <entry key="S60" value="1.9475057114885002" />
-      <entry key="M2" value="2.046228716140515" />
-      <entry key="M5" value="4.7685724342254705" />
-      <entry key="M10" value="16.654054033348682" />
-      <entry key="M15" value="29.82596624470829" />
-      <entry key="M30" value="57.94712081537005" />
-      <entry key="H1" value="84.38003105599613" />
-      <entry key="H2" value="111.48424516777868" />
-      <entry key="H4" value="183.66230505262374" />
-      <entry key="D1" value="753.8998191364027" />
-      <entry key="W1" value="1094.9868694340846" />
+      <entry key="MS100" value="4.011431394885888E-54" />
+      <entry key="MS500" value="2.0924730529760667E-11" />
+      <entry key="S2" value="0.0021387743570187557" />
+      <entry key="S5" value="0.08552063945773478" />
+      <entry key="S10" value="0.2952669795058338" />
+      <entry key="S30" value="1.3152574149806193" />
+      <entry key="S60" value="4.049761393200456" />
+      <entry key="M2" value="11.126478608133993" />
+      <entry key="M5" value="27.281272286312365" />
+      <entry key="M10" value="40.880628983604254" />
+      <entry key="M15" value="49.50380676255196" />
+      <entry key="M30" value="68.0194974396122" />
+      <entry key="H1" value="98.56236569389456" />
+      <entry key="H2" value="143.3175426219965" />
+      <entry key="H4" value="223.74436214561783" />
+      <entry key="D1" value="812.4620900854268" />
+      <entry key="W1" value="1190.9765473391603" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="2.418891708067124E-23" />
-      <entry key="MS500" value="2.997252182810642E-5" />
-      <entry key="S2" value="0.07399132785652428" />
-      <entry key="S5" value="0.3529167966016463" />
-      <entry key="S10" value="0.5940680067144218" />
-      <entry key="S30" value="0.8406442450474727" />
-      <entry key="S60" value="0.9179175944121275" />
-      <entry key="M2" value="1.0236364497815633" />
-      <entry key="M5" value="1.9115806424567425" />
-      <entry key="M10" value="3.459142943116516" />
-      <entry key="M15" value="4.640867059960547" />
-      <entry key="M30" value="6.886379899481697" />
-      <entry key="H1" value="8.90689551876447" />
-      <entry key="H2" value="11.017358949597316" />
-      <entry key="H4" value="16.370882431126134" />
-      <entry key="D1" value="59.80915579812076" />
-      <entry key="W1" value="86.25240561109416" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0001571031796022" />
+      <entry key="S2" value="1.111955708761356" />
+      <entry key="S5" value="1.4165033486816638" />
+      <entry key="S10" value="1.6453707064018817" />
+      <entry key="S30" value="1.8641777551387237" />
+      <entry key="S60" value="1.9296128315170447" />
+      <entry key="M2" value="1.9656642246396099" />
+      <entry key="M5" value="2.167273298181784" />
+      <entry key="M10" value="3.1934588623058424" />
+      <entry key="M15" value="4.475507891176234" />
+      <entry key="M30" value="8.022722184540985" />
+      <entry key="H1" value="13.33391660870749" />
+      <entry key="H2" value="19.608222227114677" />
+      <entry key="H4" value="27.699037430585115" />
+      <entry key="D1" value="74.70207207461604" />
+      <entry key="W1" value="104.41384000287702" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.7474246243174741" />
-      <entry key="MS500" value="0.9448163092614207" />
-      <entry key="S2" value="1.2082315180411214" />
-      <entry key="S5" value="1.7577635619298593" />
-      <entry key="S10" value="2.21252470292556" />
-      <entry key="S30" value="2.686661359451244" />
-      <entry key="S60" value="2.8372333622203296" />
-      <entry key="M2" value="3.0535513154595737" />
-      <entry key="M5" value="6.662678719378042" />
-      <entry key="M10" value="20.091293965388733" />
-      <entry key="M15" value="34.44388887645942" />
-      <entry key="M30" value="64.81275940023576" />
-      <entry key="H1" value="93.27177591179831" />
-      <entry key="H2" value="122.49160263619518" />
-      <entry key="H4" value="200.02560448278814" />
-      <entry key="D1" value="813.7043351893151" />
-      <entry key="W1" value="1181.2383159309693" />
+      <entry key="MS100" value="4.722793559394502E-5" />
+      <entry key="MS500" value="0.13641392095597668" />
+      <entry key="S2" value="0.6586080988659079" />
+      <entry key="S5" value="1.1941107585621848" />
+      <entry key="S10" value="1.7289708768784349" />
+      <entry key="S30" value="3.08572093665764" />
+      <entry key="S60" value="5.928251683630878" />
+      <entry key="M2" value="13.065083184456936" />
+      <entry key="M5" value="29.436054856127623" />
+      <entry key="M10" value="44.06327081434184" />
+      <entry key="M15" value="53.967179674167475" />
+      <entry key="M30" value="76.02764821508563" />
+      <entry key="H1" value="111.88134953884321" />
+      <entry key="H2" value="162.91319396083995" />
+      <entry key="H4" value="251.43356486998118" />
+      <entry key="D1" value="887.1589143773889" />
+      <entry key="W1" value="1295.3893063069543" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -113,8 +111,10 @@
     &quot;Python tests.Python tests for tests.test_e2e.test_end2end.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for tests.test_e2e2.test_end2end.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for tests.test_login.test_valid_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_handlingtabs.py.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests in test_login.py.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests in test_standalone.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_standalone_2.py.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
@@ -133,7 +133,7 @@
     &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python tests.Python tests in test_standalone.py">
+  <component name="RunManager" selected="Python tests.Python tests for test_standalone.test_login">
     <configuration name="Python tests for test_standalone.test_login" type="tests" factoryName="Autodetect" nameIsGenerated="true">
       <module name="saucedemo-playwright-pytest" />
       <option name="ENV_FILES" value="" />
@@ -253,7 +253,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_e2e.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_handlingtabs.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="saucedemo-playwright-pytest" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -266,7 +266,7 @@
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_e2e.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_handlingtabs.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -289,11 +289,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests in test_handlingtabs.py" />
         <item itemvalue="Python tests.Python tests in test_standalone.py" />
         <item itemvalue="Python tests.Python tests for test_standalone.test_login_bypassed" />
         <item itemvalue="Python tests.Python tests for tests.test_e2e.test_e2e" />
         <item itemvalue="Python tests.Python tests for tests.test_e2e.test_valid_login" />
-        <item itemvalue="Python tests.Python tests in test_e2e.py" />
       </list>
     </recent_temporary>
   </component>
